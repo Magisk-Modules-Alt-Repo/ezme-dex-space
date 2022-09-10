@@ -14,10 +14,10 @@ pm.dexopt.ab-ota=space-profile
 pm.dexopt.shared=space
 ````
 
-This changes the defaults from <code>speed</code> to <code>space</code> so that apps may be a tiny bit slower, but they are less likely to trigger Out-of=Memory situations
+This changes the defaults from <code>speed</code> to <code>space</code> so that apps may be a tiny bit slower, but they are less likely to trigger Out-of-Memory situations.
 
 It is highly recommended to wipe/clear Dalvik-Cache and reboot, so that the apps get Optimized with the new settings.
 
 
-The module is confirmed to work in LineageOS 18.1 and 19.1 (Android 11 and 12) with Magisk 20+.
+The module is confirmed to work in LineageOS 18.1 and 19.1 (Android 11 and 12L) with Magisk 24+.
 
