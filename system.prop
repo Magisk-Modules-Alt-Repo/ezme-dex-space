@@ -1,0 +1,5 @@
+pm.dexopt.install=space-profile
+pm.dexopt.install-bulk=space-profile
+pm.dexopt.bg-dexopt=space-profile
+pm.dexopt.ab-ota=space-profile
+pm.dexopt.shared=space
